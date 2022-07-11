@@ -53,4 +53,4 @@ Based on the analysis above, one can see that the chargeback rate is greater in 
 
 After looking at all the ways the test group is generating more revenue, is behaving differently than the control group and has a lower chargeback rate. I would advise that the rollout of the test group was a success and that even more people should be added to the test group as soon as possible. People are hesitant to talk on the phone or just can't be bothered to call someone so they will be generating more revenue while they are hesitant to call to cancel their subscription. So this was a successful rollout and should be continued to more people.
 
-**Note:** To review the Python code that accompanies this analysis, please see the Jupyter Lab (or the .ipynb file) called "AJLuck_Seedbox_Tech_Challenge", or click this link [here](www.placeholder.com)
+**Note:** To review the Python code that accompanies this analysis, please see the Jupyter Lab (or the .ipynb file) called "AJLuck_Seedbox_Tech_Challenge", or click this link [here](https://github.com/LuckAJ/Seedbox_Tech_Challenge/blob/main/AJLuck_Seedbox_Tech_Challenge.ipynb)
